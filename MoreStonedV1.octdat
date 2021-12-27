@@ -1,0 +1,25 @@
+        {
+            id Oct.Terrain.Gatherables.Stone.Stone
+            type TerrainGatherableTypeVariant
+            quantityPerScale = 100
+        }
+        {
+            id Oct.Terrain.Gatherables.Stone.BigRock1
+            type TerrainGatherableTypeVariant
+            quantityPerScale = 150
+        }
+        {
+            id Oct.Terrain.Gatherables.Stone.BigRock2
+            type TerrainGatherableTypeVariant
+            quantityPerScale = 200
+        }
+        {
+            id Oct.Terrain.Gatherables.Stone.BigRock3
+            type TerrainGatherableTypeVariant
+            quantityPerScale = 250
+        }
+        {
+            id Oct.Terrain.Gatherables.Stone.BigRock4
+            type TerrainGatherableTypeVariant
+            quantityPerScale = 300
+        }
